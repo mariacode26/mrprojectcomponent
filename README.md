@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://mariacode26.github.io/mrprojectcomponent/)
+- Solution URL: [https://mariacode26.github.io/mrprojectcomponent/]
 
 ## My process
 
@@ -68,7 +68,7 @@ I'll continue digging into css flexbox and for the next project I'll learn about
 
 ### Useful resources
 
-- [Example resource 1](https://www.youtube.com/watch?v=d-fUTdDgHt8&t=916s) - This tutorial helped me a lot, it gave me a lot of clarity about using flexbox
+- [https://www.youtube.com/watch?v=d-fUTdDgHt8&t=916s] - This tutorial helped me a lot, it gave me a lot of clarity about using flexbox
 
 
 
